@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flam Project - Image Viewer</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Flam Project - Processed Image Viewer</h1>
+        
+        <div class="image-container">
+            <div class="image-wrapper">
+                <img id="processed-image" alt="Processed Image">
+                <div class="overlay">
+                    <div id="fps-counter" class="stat">FPS: --</div>
+                    <div id="resolution-display" class="stat">Resolution: -- x --</div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="controls">
+            <input type="file" id="image-input" accept="image/*">
+            <button id="demo-button">Load Demo Image</button>
+        </div>
+    </div>
+</body>
+</html>

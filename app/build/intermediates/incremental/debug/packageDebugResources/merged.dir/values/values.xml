@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Flam Project</string>
+    <string name="camera_permission_required">Camera permission is required for this app</string>
+    <string name="fps_label">FPS: %1$d</string>
+    <string name="resolution_label">Resolution: %1$d x %2$d</string>
+    <string name="storage_permission_required">Storage permission is required to save images</string>
+    <string name="toggle_processing">Toggle Processing</string>
+</resources>

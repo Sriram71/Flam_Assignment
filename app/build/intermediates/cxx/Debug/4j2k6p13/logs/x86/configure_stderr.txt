@@ -1,0 +1,430 @@
+CMake Deprecation Warning at C:/Users/Sriram/AppData/Local/Android/Sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake:34 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineSystem.cmake:146 (include)
+  CMakeLists.txt:2 (project)
+
+
+CMake Deprecation Warning at C:/Users/Sriram/AppData/Local/Android/Sdk/ndk/25.1.8937393/build/cmake/android-legacy.toolchain.cmake:34 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+Call Stack (most recent call first):
+  C:/Users/Sriram/AppData/Local/Android/Sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake:54 (include)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineSystem.cmake:146 (include)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error: Could not open file for write in copy operation C:/Users/Sriram/Desktop/Flam_prj/app/.cxx/Debug/4j2k6p13/x86/CMakeFiles/4.1.1/CMakeSystem.cmake.tmp
+CMake Error: : System Error: Permission denied
+CMake Error at C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineSystem.cmake:225 (configure_file):
+  configure_file Problem configuring file
+Call Stack (most recent call first):
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:489 (file):
+  file failed to open for writing (Permission denied):
+
+    C:/Users/Sriram/Desktop/Flam_prj/app/.cxx/Debug/4j2k6p13/x86/CMakeFiles/4.1.1/CompilerIdC/CMakeCCompilerId.c
+Call Stack (most recent call first):
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:500 (CMAKE_DETERMINE_COMPILER_ID_WRITE)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:8 (CMAKE_DETERMINE_COMPILER_ID_BUILD)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCCompiler.cmake:122 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:489 (file):
+  file failed to open for writing (Permission denied):
+
+    C:/Users/Sriram/Desktop/Flam_prj/app/.cxx/Debug/4j2k6p13/x86/CMakeFiles/4.1.1/CompilerIdC/CMakeCCompilerId.c
+Call Stack (most recent call first):
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:500 (CMAKE_DETERMINE_COMPILER_ID_WRITE)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:8 (CMAKE_DETERMINE_COMPILER_ID_BUILD)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCCompiler.cmake:122 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:489 (file):
+  file failed to open for writing (Permission denied):
+
+    C:/Users/Sriram/Desktop/Flam_prj/app/.cxx/Debug/4j2k6p13/x86/CMakeFiles/4.1.1/CompilerIdC/CMakeCCompilerId.c
+Call Stack (most recent call first):
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:500 (CMAKE_DETERMINE_COMPILER_ID_WRITE)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:8 (CMAKE_DETERMINE_COMPILER_ID_BUILD)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCCompiler.cmake:122 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:489 (file):
+  file failed to open for writing (Permission denied):
+
+    C:/Users/Sriram/Desktop/Flam_prj/app/.cxx/Debug/4j2k6p13/x86/CMakeFiles/4.1.1/CompilerIdC/CMakeCCompilerId.c
+Call Stack (most recent call first):
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:500 (CMAKE_DETERMINE_COMPILER_ID_WRITE)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:8 (CMAKE_DETERMINE_COMPILER_ID_BUILD)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCCompiler.cmake:122 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:489 (file):
+  file failed to open for writing (Permission denied):
+
+    C:/Users/Sriram/Desktop/Flam_prj/app/.cxx/Debug/4j2k6p13/x86/CMakeFiles/4.1.1/CompilerIdC/CMakeCCompilerId.c
+Call Stack (most recent call first):
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:500 (CMAKE_DETERMINE_COMPILER_ID_WRITE)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:8 (CMAKE_DETERMINE_COMPILER_ID_BUILD)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCCompiler.cmake:122 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:489 (file):
+  file failed to open for writing (Permission denied):
+
+    C:/Users/Sriram/Desktop/Flam_prj/app/.cxx/Debug/4j2k6p13/x86/CMakeFiles/4.1.1/CompilerIdC/CMakeCCompilerId.c
+Call Stack (most recent call first):
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:500 (CMAKE_DETERMINE_COMPILER_ID_WRITE)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:8 (CMAKE_DETERMINE_COMPILER_ID_BUILD)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCCompiler.cmake:122 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:489 (file):
+  file failed to open for writing (Permission denied):
+
+    C:/Users/Sriram/Desktop/Flam_prj/app/.cxx/Debug/4j2k6p13/x86/CMakeFiles/4.1.1/CompilerIdC/CMakeCCompilerId.c
+Call Stack (most recent call first):
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:500 (CMAKE_DETERMINE_COMPILER_ID_WRITE)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:8 (CMAKE_DETERMINE_COMPILER_ID_BUILD)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCCompiler.cmake:122 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:489 (file):
+  file failed to open for writing (Permission denied):
+
+    C:/Users/Sriram/Desktop/Flam_prj/app/.cxx/Debug/4j2k6p13/x86/CMakeFiles/4.1.1/CompilerIdC/CMakeCCompilerId.c
+Call Stack (most recent call first):
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:500 (CMAKE_DETERMINE_COMPILER_ID_WRITE)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:8 (CMAKE_DETERMINE_COMPILER_ID_BUILD)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCCompiler.cmake:122 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:489 (file):
+  file failed to open for writing (Permission denied):
+
+    C:/Users/Sriram/Desktop/Flam_prj/app/.cxx/Debug/4j2k6p13/x86/CMakeFiles/4.1.1/CompilerIdC/CMakeCCompilerId.c
+Call Stack (most recent call first):
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:500 (CMAKE_DETERMINE_COMPILER_ID_WRITE)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:8 (CMAKE_DETERMINE_COMPILER_ID_BUILD)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCCompiler.cmake:122 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:489 (file):
+  file failed to open for writing (Permission denied):
+
+    C:/Users/Sriram/Desktop/Flam_prj/app/.cxx/Debug/4j2k6p13/x86/CMakeFiles/4.1.1/CompilerIdC/CMakeCCompilerId.c
+Call Stack (most recent call first):
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:500 (CMAKE_DETERMINE_COMPILER_ID_WRITE)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:8 (CMAKE_DETERMINE_COMPILER_ID_BUILD)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCCompiler.cmake:122 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:489 (file):
+  file failed to open for writing (Permission denied):
+
+    C:/Users/Sriram/Desktop/Flam_prj/app/.cxx/Debug/4j2k6p13/x86/CMakeFiles/4.1.1/CompilerIdC/CMakeCCompilerId.c
+Call Stack (most recent call first):
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:500 (CMAKE_DETERMINE_COMPILER_ID_WRITE)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:8 (CMAKE_DETERMINE_COMPILER_ID_BUILD)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCCompiler.cmake:122 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:489 (file):
+  file failed to open for writing (Permission denied):
+
+    C:/Users/Sriram/Desktop/Flam_prj/app/.cxx/Debug/4j2k6p13/x86/CMakeFiles/4.1.1/CompilerIdC/CMakeCCompilerId.c
+Call Stack (most recent call first):
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:500 (CMAKE_DETERMINE_COMPILER_ID_WRITE)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:8 (CMAKE_DETERMINE_COMPILER_ID_BUILD)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCCompiler.cmake:122 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:489 (file):
+  file failed to open for writing (Permission denied):
+
+    C:/Users/Sriram/Desktop/Flam_prj/app/.cxx/Debug/4j2k6p13/x86/CMakeFiles/4.1.1/CompilerIdC/CMakeCCompilerId.c
+Call Stack (most recent call first):
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:500 (CMAKE_DETERMINE_COMPILER_ID_WRITE)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:8 (CMAKE_DETERMINE_COMPILER_ID_BUILD)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCCompiler.cmake:122 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:489 (file):
+  file failed to open for writing (Permission denied):
+
+    C:/Users/Sriram/Desktop/Flam_prj/app/.cxx/Debug/4j2k6p13/x86/CMakeFiles/4.1.1/CompilerIdC/CMakeCCompilerId.c
+Call Stack (most recent call first):
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:500 (CMAKE_DETERMINE_COMPILER_ID_WRITE)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:8 (CMAKE_DETERMINE_COMPILER_ID_BUILD)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCCompiler.cmake:122 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error: Could not open file for write in copy operation C:/Users/Sriram/Desktop/Flam_prj/app/.cxx/Debug/4j2k6p13/x86/CMakeFiles/4.1.1/CMakeCCompiler.cmake.tmp
+CMake Error: : System Error: Permission denied
+CMake Error at C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCCompiler.cmake:223 (configure_file):
+  configure_file Problem configuring file
+Call Stack (most recent call first):
+  CMakeLists.txt:2 (project)
+
+
+CMake Error: Could not find cmake module file: C:/Users/Sriram/Desktop/Flam_prj/app/.cxx/Debug/4j2k6p13/x86/CMakeFiles/4.1.1/CMakeCCompiler.cmake
+CMake Error at C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:489 (file):
+  file failed to open for writing (Permission denied):
+
+    C:/Users/Sriram/Desktop/Flam_prj/app/.cxx/Debug/4j2k6p13/x86/CMakeFiles/4.1.1/CompilerIdCXX/CMakeCXXCompilerId.cpp
+Call Stack (most recent call first):
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:500 (CMAKE_DETERMINE_COMPILER_ID_WRITE)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:8 (CMAKE_DETERMINE_COMPILER_ID_BUILD)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCXXCompiler.cmake:125 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:489 (file):
+  file failed to open for writing (Permission denied):
+
+    C:/Users/Sriram/Desktop/Flam_prj/app/.cxx/Debug/4j2k6p13/x86/CMakeFiles/4.1.1/CompilerIdCXX/CMakeCXXCompilerId.cpp
+Call Stack (most recent call first):
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:500 (CMAKE_DETERMINE_COMPILER_ID_WRITE)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:8 (CMAKE_DETERMINE_COMPILER_ID_BUILD)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCXXCompiler.cmake:125 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:489 (file):
+  file failed to open for writing (Permission denied):
+
+    C:/Users/Sriram/Desktop/Flam_prj/app/.cxx/Debug/4j2k6p13/x86/CMakeFiles/4.1.1/CompilerIdCXX/CMakeCXXCompilerId.cpp
+Call Stack (most recent call first):
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:500 (CMAKE_DETERMINE_COMPILER_ID_WRITE)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:8 (CMAKE_DETERMINE_COMPILER_ID_BUILD)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCXXCompiler.cmake:125 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:489 (file):
+  file failed to open for writing (Permission denied):
+
+    C:/Users/Sriram/Desktop/Flam_prj/app/.cxx/Debug/4j2k6p13/x86/CMakeFiles/4.1.1/CompilerIdCXX/CMakeCXXCompilerId.cpp
+Call Stack (most recent call first):
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:500 (CMAKE_DETERMINE_COMPILER_ID_WRITE)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:8 (CMAKE_DETERMINE_COMPILER_ID_BUILD)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCXXCompiler.cmake:125 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:489 (file):
+  file failed to open for writing (Permission denied):
+
+    C:/Users/Sriram/Desktop/Flam_prj/app/.cxx/Debug/4j2k6p13/x86/CMakeFiles/4.1.1/CompilerIdCXX/CMakeCXXCompilerId.cpp
+Call Stack (most recent call first):
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:500 (CMAKE_DETERMINE_COMPILER_ID_WRITE)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:8 (CMAKE_DETERMINE_COMPILER_ID_BUILD)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCXXCompiler.cmake:125 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:489 (file):
+  file failed to open for writing (Permission denied):
+
+    C:/Users/Sriram/Desktop/Flam_prj/app/.cxx/Debug/4j2k6p13/x86/CMakeFiles/4.1.1/CompilerIdCXX/CMakeCXXCompilerId.cpp
+Call Stack (most recent call first):
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:500 (CMAKE_DETERMINE_COMPILER_ID_WRITE)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:8 (CMAKE_DETERMINE_COMPILER_ID_BUILD)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCXXCompiler.cmake:125 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:489 (file):
+  file failed to open for writing (Permission denied):
+
+    C:/Users/Sriram/Desktop/Flam_prj/app/.cxx/Debug/4j2k6p13/x86/CMakeFiles/4.1.1/CompilerIdCXX/CMakeCXXCompilerId.cpp
+Call Stack (most recent call first):
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:500 (CMAKE_DETERMINE_COMPILER_ID_WRITE)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:8 (CMAKE_DETERMINE_COMPILER_ID_BUILD)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCXXCompiler.cmake:125 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:489 (file):
+  file failed to open for writing (Permission denied):
+
+    C:/Users/Sriram/Desktop/Flam_prj/app/.cxx/Debug/4j2k6p13/x86/CMakeFiles/4.1.1/CompilerIdCXX/CMakeCXXCompilerId.cpp
+Call Stack (most recent call first):
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:500 (CMAKE_DETERMINE_COMPILER_ID_WRITE)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:8 (CMAKE_DETERMINE_COMPILER_ID_BUILD)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCXXCompiler.cmake:125 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:489 (file):
+  file failed to open for writing (Permission denied):
+
+    C:/Users/Sriram/Desktop/Flam_prj/app/.cxx/Debug/4j2k6p13/x86/CMakeFiles/4.1.1/CompilerIdCXX/CMakeCXXCompilerId.cpp
+Call Stack (most recent call first):
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:500 (CMAKE_DETERMINE_COMPILER_ID_WRITE)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:8 (CMAKE_DETERMINE_COMPILER_ID_BUILD)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCXXCompiler.cmake:125 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:489 (file):
+  file failed to open for writing (Permission denied):
+
+    C:/Users/Sriram/Desktop/Flam_prj/app/.cxx/Debug/4j2k6p13/x86/CMakeFiles/4.1.1/CompilerIdCXX/CMakeCXXCompilerId.cpp
+Call Stack (most recent call first):
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:500 (CMAKE_DETERMINE_COMPILER_ID_WRITE)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:8 (CMAKE_DETERMINE_COMPILER_ID_BUILD)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCXXCompiler.cmake:125 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:489 (file):
+  file failed to open for writing (Permission denied):
+
+    C:/Users/Sriram/Desktop/Flam_prj/app/.cxx/Debug/4j2k6p13/x86/CMakeFiles/4.1.1/CompilerIdCXX/CMakeCXXCompilerId.cpp
+Call Stack (most recent call first):
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:500 (CMAKE_DETERMINE_COMPILER_ID_WRITE)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:8 (CMAKE_DETERMINE_COMPILER_ID_BUILD)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCXXCompiler.cmake:125 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:489 (file):
+  file failed to open for writing (Permission denied):
+
+    C:/Users/Sriram/Desktop/Flam_prj/app/.cxx/Debug/4j2k6p13/x86/CMakeFiles/4.1.1/CompilerIdCXX/CMakeCXXCompilerId.cpp
+Call Stack (most recent call first):
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:500 (CMAKE_DETERMINE_COMPILER_ID_WRITE)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:8 (CMAKE_DETERMINE_COMPILER_ID_BUILD)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCXXCompiler.cmake:125 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:489 (file):
+  file failed to open for writing (Permission denied):
+
+    C:/Users/Sriram/Desktop/Flam_prj/app/.cxx/Debug/4j2k6p13/x86/CMakeFiles/4.1.1/CompilerIdCXX/CMakeCXXCompilerId.cpp
+Call Stack (most recent call first):
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:500 (CMAKE_DETERMINE_COMPILER_ID_WRITE)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:8 (CMAKE_DETERMINE_COMPILER_ID_BUILD)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCXXCompiler.cmake:125 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:489 (file):
+  file failed to open for writing (Permission denied):
+
+    C:/Users/Sriram/Desktop/Flam_prj/app/.cxx/Debug/4j2k6p13/x86/CMakeFiles/4.1.1/CompilerIdCXX/CMakeCXXCompilerId.cpp
+Call Stack (most recent call first):
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:500 (CMAKE_DETERMINE_COMPILER_ID_WRITE)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:8 (CMAKE_DETERMINE_COMPILER_ID_BUILD)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCXXCompiler.cmake:125 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error: Could not open file for write in copy operation C:/Users/Sriram/Desktop/Flam_prj/app/.cxx/Debug/4j2k6p13/x86/CMakeFiles/4.1.1/CMakeCXXCompiler.cmake.tmp
+CMake Error: : System Error: Permission denied
+CMake Error at C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCXXCompiler.cmake:229 (configure_file):
+  configure_file Problem configuring file
+Call Stack (most recent call first):
+  CMakeLists.txt:2 (project)
+
+
+CMake Error: Could not find cmake module file: C:/Users/Sriram/Desktop/Flam_prj/app/.cxx/Debug/4j2k6p13/x86/CMakeFiles/4.1.1/CMakeCXXCompiler.cmake
+CMake Error at C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeDetermineCompilerABI.cmake:83 (try_compile):
+  Unknown extension ".c" for file
+
+    C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeCCompilerABI.c
+
+  try_compile() works only for enabled languages.  Currently these are:
+
+    C CXX
+
+  See project() command to enable other languages.
+Call Stack (most recent call first):
+  C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeTestCCompiler.cmake:56 (try_compile):
+  SOURCE_FROM_VAR failed to open "testCCompiler.c" for writing
+Call Stack (most recent call first):
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at C:/Users/Sriram/AppData/Local/Android/Sdk/cmake/4.1.1/share/cmake-4.1/Modules/CMakeTestCCompiler.cmake:67 (message):
+  The C compiler
+
+    "C:/Users/Sriram/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe"
+
+  is not able to compile a simple test program.
+
+  It fails with the following output:
+
+    
+
+
+
+  CMake will not be able to correctly generate this project.
+Call Stack (most recent call first):
+  CMakeLists.txt:2 (project)
+
+
+CMake Error: Cannot open file for write: C:/Users/Sriram/Desktop/Flam_prj/app/.cxx/Debug/4j2k6p13/x86/CMakeCache.txt.tmp83d0e
+CMake Error: : System Error: Permission denied
+CMake Error: Unable to open cache file for save. C:/Users/Sriram/Desktop/Flam_prj/app/.cxx/Debug/4j2k6p13/x86/CMakeCache.txt
+CMake Error: : System Error: Permission denied

@@ -1,0 +1,13 @@
+R_DEF: Internal format may change without notice
+local
+id camera_preview
+id fps_text
+id resolution_text
+id toggle_button
+layout activity_main
+string app_name
+string camera_permission_required
+string fps_label
+string resolution_label
+string storage_permission_required
+string toggle_processing
